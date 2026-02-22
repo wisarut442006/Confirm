@@ -26,3 +26,4 @@ when package.json contains
 }
 
 ```
+hello
